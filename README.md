@@ -16,3 +16,12 @@ b) Instale a Skill no Kiro ou no Amazon Quick Desktop
 1. Envie o resultado no chat de cada survey (todos os resultados juntos)
 2. Coloque no prompt que a Skill instalada deve ser utilizada
 
+## Exemplos
+
+Exemplo de resultados de survey (fictício) 
+
+https://partyrock.aws/u/mavi2025mvrm/GQHa1Aexj/Maturidade-Organizacional-e-Estrategica-de-IA-Generativa/snapshot/oiQNtauqh 
+
+https://partyrock.aws/u/mavi2025mvrm/5UIYIOEAP/Avaliacao-de-Maturidade-de-Dados-GenAI/snapshot/abScEdUCy 
+
+https://partyrock.aws/u/mavi2025mvrm/aS6gvRKEv/Analise-de-maturidade-tecnica-para-uso-de-IA-Generativa/snapshot/G708VHVxP 
